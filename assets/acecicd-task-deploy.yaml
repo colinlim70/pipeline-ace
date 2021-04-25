@@ -16,7 +16,7 @@ spec:
       description: image name
     - name: license
       description: license number
-      default: L-APEH-BPUCJK
+      default: L-APEH-BSVCHU 
     - name: tracing_ns
       default: tracing
       description: namespace where OD is installed
